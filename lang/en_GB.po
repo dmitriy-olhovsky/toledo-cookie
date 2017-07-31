@@ -1,0 +1,101 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Toledo cookies\n"
+"POT-Creation-Date: 2017-07-28 23:18+0300\n"
+"PO-Revision-Date: 2017-07-28 23:18+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.0.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: toledo-cookies.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: toledo-cookies.php:61 toledo-cookies.php:62
+msgid "Toledo cookie"
+msgstr "Toledo cookie"
+
+#: toledo-cookies.php:73
+msgid "Toledo Cookie options"
+msgstr "Toledo Cookie options"
+
+#: toledo-cookies.php:124
+msgid "Common settings"
+msgstr ""
+
+#: toledo-cookies.php:126
+msgid "Message"
+msgstr "Message"
+
+#: toledo-cookies.php:127
+msgid "Icon"
+msgstr "Icon"
+
+#: toledo-cookies.php:128
+msgid "Additional info link"
+msgstr ""
+
+#: toledo-cookies.php:130
+msgid "Colors"
+msgstr ""
+
+#: toledo-cookies.php:132
+msgid "Banner background color"
+msgstr "Banner background color"
+
+#: toledo-cookies.php:133
+msgid "Accept button color"
+msgstr ""
+
+#: toledo-cookies.php:134
+msgid "Text color"
+msgstr "Text color"
+
+#: toledo-cookies.php:158
+msgid "Upload icon"
+msgstr "Upload icon"
+
+#: toledo-cookies.php:166
+msgid "Do not show if empty."
+msgstr ""
+
+#: toledo-cookies.php:267
+msgid "You can read"
+msgstr ""
+
+#: toledo-cookies.php:267
+msgid "additional info."
+msgstr ""
+
+#: toledo-cookies.php:271
+msgid "Accept"
+msgstr "Accept cookies"
+
+#: toledo-cookies.php:297
+msgid "Settings"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Toledo cookies"
+msgstr "Toledo cookies"
+
+#. Description of the plugin/theme
+msgid "Cookie notice for Beetroot"
+msgstr "Cookie notice for Beetroot"
+
+#. Author of the plugin/theme
+msgid "Dmitriy Olkhovskiy"
+msgstr "Dmitriy Olkhovskiy"
+
+#~ msgid "Link"
+#~ msgstr "Link"
